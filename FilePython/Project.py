@@ -6,12 +6,18 @@ import numpy as np
 """
 Big project's program that displays a image||(webcam) using Opencv and appling some very basic image functions
 We using this file for checking our function written.  
+
 none:       no processing, just show Origin Image
-threshold:  simple b/w-threshold on the luma channel, slider sets the threshold value
+
+threshold:  simple b/w-threshold on the luma channel, slider sets the threshold value (BONUS)
+
 canny:      edge finding with canny, sliders set the two threshold values for the function => edge sensitivity
-blur:       simple Gaussian blur, slider sets the sigma, i.e. the amount of blur smear
-hue:        moves the image hue values by the amount selected on the slider
-enhance:    applies local contrast enhancement on the luma channel to make the image fancier - slider controls fanciness.
+
+blur:       simple Gaussian blur, slider sets the sigma, i.e. the amount of blur smear (BONUS)
+
+hue:        moves the image hue values by the amount selected on the slider (BONUS)
+
+enhance:    applies local contrast enhancement on the luma channel to make the image fancier - slider controls fanciness. (BONUS)
 """
 
 def main():
