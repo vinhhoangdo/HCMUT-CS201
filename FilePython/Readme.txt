@@ -1,15 +1,17 @@
-Hai chuong trinh su dung cac thu vien sau:
+Các thư viện sử dụng bao gồm:
 	PySimpleGUI
 	OpenCv
 	Numpy
 	Scipy
 	Matplotlib
 	Os
+Với file Project.py là file mà nhóm đã tìm hiểu và xây dựng được GUI và các thuật toán có sẵn trong thư viện
+nhằm mục đích so sánh với thực tế nhóm lập trình lại dựa theo lý thuyết!!!
 
-Neu nhu phan mem chua co hay thuc hien install cac thu vien truoc khi Run cac
+Nếu như phần mềm chưa có hãy thực hiện việc install các thư viện kể trên trước khi Run các tác vụ có trong
 file Project.py & CANNY_EDGE.py
 
-Khuyen dung Anaconda de install cac thu vien don gian va nhanh chong
-Duong link de cai dat Anaconda : https://docs.anaconda.com/anaconda/install/
+Khuyên dùng Anaconda để install các thư viện đơn giản và nhanh chóng.
+Link để download Anaconda : https://docs.anaconda.com/anaconda/install/
 
-Nhom xin chan thanh cam on!!!
+Nhóm xin chân thành cảm ơn!!!
