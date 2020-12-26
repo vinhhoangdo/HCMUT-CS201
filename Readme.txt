@@ -1,9 +1,9 @@
-Bai bao cao gom: 
-1 Ban thuyet minh (Word).
-3 Video clip demo chay neu Thay va cac ban muon xem neu khong mo duoc.
-2 Anh su dung cho thuat toan (ngoai ra cac chi can truyen URL de load cac anh khac) trong Folder: CS201\\PictureUse
-2 Anh ket qua khong su dung thu vien.
+Bài báo cáo bao gồm:
+1 Bản thuyết minh (Word).
+3 Video clip demo chạy chương trình.
+2 ảnh sử dụng cho thuật toán (ngoài ra nếu muốn ảnh khác chỉ cần truyền URL để load) trong Folder: CS201\\PictureUse
+2 ảnh kết quả không sử dụng thư viện
 
-Tat ca giai thich deu nam trong file code trong Folder: FilePython//Project.py && CANNY_EDGE.py
+Tất cả comment giải thích nằm ở file .py trong Folder: FilePython//Project.py && CANNY_EDGE.py
 
-Xin chan thanh cam on Thay va cac ban!!!
+Nhóm xin chân thành cảm ơn Thầy và các bạn!!
