@@ -1,5 +1,5 @@
 # CS201
-## This program using for Introduction of Computer Vision in HCMUT
+## This program using for Introduction of Computer Vision Subject of HCMUT
 ### We're team 4 members:
 ####    Do Nguyen Dang Anh      1710457
 ####    Le Canh Hoang           1710095
